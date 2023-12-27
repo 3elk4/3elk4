@@ -4,7 +4,7 @@
 I'm backend software developer from Poland. 
 
 - My professional journey has been all about creating backend in Ruby on Rails.
-- Currently, I am eager to learn creating web and destop applications using .Net technologies (ASP.Net, Blazor, WPF) with C# language.
+- Currently, I am eager to learn creating web and desktop applications using .Net technologies (ASP.Net, Blazor, WPF) with C# language.
 - In my free time, I deepen knowledge about Artificial Intelligence.
 
 ### 🛠️ Languages and Tools
@@ -26,3 +26,6 @@ I'm backend software developer from Poland.
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+<!-- Badgers: https://github.com/Ileriayo/markdown-badges -->
