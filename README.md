@@ -4,7 +4,7 @@
 I'm backend software developer from Poland. 
 
 - My professional journey has been all about creating backend in Ruby on Rails.
-- Currently, I am eager to learn creating web and desktop applications using .Net technologies (ASP.Net, Blazor, WPF) with C# language.
+- Currently, I am eager to learn creating web and desktop applications using .Net technologies (ASP.Net, Blazor, WPF) with C# language and broaden my skills on frontend field (Angular). 
 - In my free time, I deepen knowledge about Artificial Intelligence.
 
 ### 🛠️ Languages and Tools
